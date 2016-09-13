@@ -1,9 +1,8 @@
 # visualizing-planetary-transits
-visualizing planetary transits
 
 Every once in a rare while, one of our inner planets transits across the face of the Sun. Over the last few years, the Helioseismic and Magnetic Imager on NASA's [Solar Dynamics Observatory](http://sdo.gsfc.nasa.gov/) has observed both inner planets transit across the Sun.
 
-On May 9, 2016, Mercury [made such a transit](http://blogs.scientificamerican.com/guest-blog/mercury-takes-a-stroll-across-the-sun/). The notebook titled `mercury_composite.ipynb` creates the following composite images of Mercury's transit using data from the Solar Dynamics Observatory and the Solar and Heliospheric Observatory:
+On May 9, 2016, Mercury [made such a transit](http://blogs.scientificamerican.com/guest-blog/mercury-takes-a-stroll-across-the-sun/). The notebook titled `mercury_composite.ipynb` creates the following composite images of Mercury's transit using data from the Solar Dynamics Observatory (left), in inclined geosynchronous orbit, and the Solar and Heliospheric Observatory (right), in a halo orbit around the Earth-Sun L1 Lagrangian point.
 
 <img src="https://github.com/mbobra/visualizing-planetary-transits/blob/master/mercury_composite_HMI.jpg" width="45%"></img> 
 <img src="https://github.com/mbobra/visualizing-planetary-transits/blob/master/mercury_composite_MDI.jpg" width="45%"></img> 
